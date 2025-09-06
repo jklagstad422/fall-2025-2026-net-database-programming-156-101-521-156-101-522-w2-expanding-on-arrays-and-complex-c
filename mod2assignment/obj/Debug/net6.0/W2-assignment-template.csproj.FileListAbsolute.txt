@@ -1,0 +1,16 @@
+C:\Users\jklag\OneDrive\Desktop\dotnetassignment\mod2\mod2assignment\bin\Debug\net6.0\W2-assignment-template.exe
+C:\Users\jklag\OneDrive\Desktop\dotnetassignment\mod2\mod2assignment\bin\Debug\net6.0\input.csv
+C:\Users\jklag\OneDrive\Desktop\dotnetassignment\mod2\mod2assignment\bin\Debug\net6.0\W2-assignment-template.deps.json
+C:\Users\jklag\OneDrive\Desktop\dotnetassignment\mod2\mod2assignment\bin\Debug\net6.0\W2-assignment-template.runtimeconfig.json
+C:\Users\jklag\OneDrive\Desktop\dotnetassignment\mod2\mod2assignment\bin\Debug\net6.0\W2-assignment-template.dll
+C:\Users\jklag\OneDrive\Desktop\dotnetassignment\mod2\mod2assignment\bin\Debug\net6.0\W2-assignment-template.pdb
+C:\Users\jklag\OneDrive\Desktop\dotnetassignment\mod2\mod2assignment\obj\Debug\net6.0\W2-assignment-template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jklag\OneDrive\Desktop\dotnetassignment\mod2\mod2assignment\obj\Debug\net6.0\W2-assignment-template.AssemblyInfoInputs.cache
+C:\Users\jklag\OneDrive\Desktop\dotnetassignment\mod2\mod2assignment\obj\Debug\net6.0\W2-assignment-template.AssemblyInfo.cs
+C:\Users\jklag\OneDrive\Desktop\dotnetassignment\mod2\mod2assignment\obj\Debug\net6.0\W2-assignment-template.csproj.CoreCompileInputs.cache
+C:\Users\jklag\OneDrive\Desktop\dotnetassignment\mod2\mod2assignment\obj\Debug\net6.0\W2-assignment-template.sourcelink.json
+C:\Users\jklag\OneDrive\Desktop\dotnetassignment\mod2\mod2assignment\obj\Debug\net6.0\W2-assignment-template.dll
+C:\Users\jklag\OneDrive\Desktop\dotnetassignment\mod2\mod2assignment\obj\Debug\net6.0\refint\W2-assignment-template.dll
+C:\Users\jklag\OneDrive\Desktop\dotnetassignment\mod2\mod2assignment\obj\Debug\net6.0\W2-assignment-template.pdb
+C:\Users\jklag\OneDrive\Desktop\dotnetassignment\mod2\mod2assignment\obj\Debug\net6.0\W2-assignment-template.genruntimeconfig.cache
+C:\Users\jklag\OneDrive\Desktop\dotnetassignment\mod2\mod2assignment\obj\Debug\net6.0\ref\W2-assignment-template.dll
